@@ -6,7 +6,7 @@ websites, CLIs, automation, and full-stack apps. I run a one-person business,
 **5AM Cookies**, selling 3D-printed and laser-engraved products in Lake County,
 Florida, and I'm building toward remote IT and software work.
 
-- 🔭 Currently: remote IT help desk work, and growing the 5AM Cookies product line
+- 🔭 Currently: applying for remote IT help desk roles, and growing the 5AM Cookies product line
 - 🌱 Learning: React + TypeScript (this portfolio is part of that)
 - 📫 Reach me: stephenstets@gmail.com
 - 🖨️ Printer: Bambu Lab P1S + AMS · Laser: xTool M1 Ultra · Resin: Anycubic Mono 8K
